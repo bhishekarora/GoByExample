@@ -7,11 +7,11 @@ type Customer struct {
 	Age  int
 }
 
-func (p *Customer) GetAge() int {
-	return p.Age
+func (c *Customer) GetAge() int {
+	return c.Age
 }
-func (p Customer) GetName() string {
-	return p.Name
+func (c Customer) GetName() string {
+	return c.Name
 }
 
 func main() {
