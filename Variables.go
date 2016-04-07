@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	var a string = "initial"
 	fmt.Println(a)
 
@@ -17,4 +18,5 @@ func main() {
 
 	f := "short"
 	fmt.Println(f)
+
 }

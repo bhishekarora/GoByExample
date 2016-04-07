@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	m := make(map[string]int)
 	m["k1"] = 5
 	m["k2"] = 10

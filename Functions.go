@@ -7,6 +7,7 @@ import (
 func plus(a int, b int) int {
 	return a + b
 }
+
 func anotherPrint() {
 	fmt.Println("Void kind of print function")
 }

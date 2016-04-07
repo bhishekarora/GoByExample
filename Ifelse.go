@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+
 	if 7%2 == 0 {
 		fmt.Println("even")
 	} else {
