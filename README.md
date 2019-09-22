@@ -1,4 +1,6 @@
 # GoByExample
 A repository to learn go 
 
-An example of learning in golang
+An example of learning in golang.
+
+
